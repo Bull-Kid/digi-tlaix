@@ -23,3 +23,4 @@ export class GeoLocationService {
     });
   }
 }
+3. GeoFenceValidator.js
